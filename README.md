@@ -35,12 +35,7 @@
 <br />
 
 ![iiey's github stats](https://github-readme-stats.vercel.app/api?username=iiey&show_icons=true&hide_border=true)
----
 
-### 📕 Latest news
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
----
 
 [website]: https://iiey.github.io
 [linkedin]: https://linkedin.com/in/mt-ly
