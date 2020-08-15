@@ -34,7 +34,7 @@
 <br />
 <br />
 
-![iiey's github stats](https://github-readme-stats.vercel.app/api?username=iiey&show_icons=true&hide_border=true)
+![iiey's github stats](https://github-readme-stats.iiey.vercel.app/api?username=iiey&show_icons=true&hide_border=true)
 
 
 [website]: https://iiey.github.io
